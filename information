@@ -1,0 +1,13 @@
+Uname: Linux webscantest2 5.1.17-x86_64-linode128 #1 SMP PREEMPT Wed Jul 10 17:11:49 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+Uname: Linux version 5.1.17-x86_64-linode128 (maker@build.linode.com) (gcc version 4.9.2 (Debian 4.9.2-10+deb8u1)) #1 SMP PREEMPT Wed Jul 10 17:11:49 UTC 2019
+
+PHP:   5.5.9-1ubuntu4.29 Safe Mode: OFF
+
+SoftWare: 	Apache/2.4.7 (Ubuntu)
+
+PWD: /var/www/webscantest/osrun/
+
+ID:  uid=33(www-data) gid=33(www-data) groups=33(www-data)
+
+User:  33 [ www-data ] Group: 33 [ www-data ]
