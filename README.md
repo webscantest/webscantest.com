@@ -1,3 +1,3 @@
 # webscantest.com
  webscantest.com
- <html><head><meta name="viewport" content="width=device-width; height=device-height;"><link rel="stylesheet" href="resource://content-accessible/ImageDocument.css"><link rel="stylesheet" href="resource://content-accessible/TopLevelImageDocument.css"><link rel="stylesheet" href="chrome://global/skin/media/TopLevelImageDocument.css"><title>Data-Leakage.jpg (JPEG Image, 750&nbsp;×&nbsp;421 pixels) - Scaled (53%)</title></head><body><img src="https://securitymea.com/wp-content/uploads/2018/04/Data-Leakage.jpg" alt="https://securitymea.com/wp-content/uploads/2018/04/Data-Leakage.jpg" class="shrinkToFit" width="402" height="225"></body></html>
+<img src="https://securitymea.com/wp-content/uploads/2018/04/Data-Leakage.jpg" alt="https://securitymea.com/wp-content/uploads/2018/04/Data-Leakage.jpg" class="shrinkToFit" width="402" height="225"></body></html>
